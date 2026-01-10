@@ -1,0 +1,1 @@
+I am going to build a basic recipe website. The skills that I will showcase will be making use of different elements that make characters bold ,italicized. Using different types of images. linking different websites 
